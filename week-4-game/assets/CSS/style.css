@@ -1,0 +1,64 @@
+body {
+    background-color: lightblue;
+}
+
+.title {
+    background-color: orangered;
+    width:250px;
+    padding:20px;
+}
+
+.objective {
+    background-color: beige;
+    width:450px;
+    border: 3px dotted darkblue;
+}
+
+.container {
+    background-color: #777;
+    margin-top: 20px;
+    width: 450px;
+    height: 100px;
+}
+
+#box1 {
+
+    float:left;
+    width:40%;
+    margin-right: 20px;
+    background-color: green;
+    text-align: center;
+
+}
+
+#box2 {
+
+    float:left;
+    width:40%;
+    margin-left: 20px;
+    background-color: green;
+    text-align: center;
+    
+}
+
+.crystal {
+    height:200px;
+    width:200px;
+    margin-top: 60px;
+    margin-left: 5px;
+}
+
+.score {
+    background-color: lightgray;
+    width: 250px;
+    height: 10px;
+    padding: 20px;
+    text-align: center;
+
+}
+
+.box {
+    width: 350px;
+    height: 250px;
+    background-color: red;
+}
