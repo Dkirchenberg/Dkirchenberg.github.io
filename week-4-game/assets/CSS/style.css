@@ -41,12 +41,15 @@ body {
     
 }
 
-.crystal {
+.crystals {
+    display:flex;
+    justify-content: space-around;
+    align-items:center;
+    border: 1px dotted darkgreen;
     height:200px;
     width:200px;
-    margin-top: 60px;
-    margin-left: 5px;
 }
+
 
 .score {
     background-color: lightgray;
